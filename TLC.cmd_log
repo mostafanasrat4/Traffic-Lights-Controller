@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/Ain Shams/Fall 2021/Assignments/Assignments - CSE312 - Electronic Design Automation/Final Project/TLC.xst" -ofn "F:/Ain Shams/Fall 2021/Assignments/Assignments - CSE312 - Electronic Design Automation/Final Project/TLC.syr" 
